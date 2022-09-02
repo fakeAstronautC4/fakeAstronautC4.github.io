@@ -1,0 +1,28 @@
+header div img{
+    padding-top: 10%;
+    max-height: 20%;
+    max-width: 20%;
+}
+
+header div h1{
+    color: rgb(196, 102, 47);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    background-color: rgba(16, 94, 196, 0.137);
+}
+header div p{
+    color: rgb(243, 237, 237);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+li a{
+    color: blue;
+}
+header{
+    background-image: url('./www.jpg');
+    width: 100%;
+}
+.container{
+    margin-top: 40px;
+    margin-bottom: 150px;
+}
